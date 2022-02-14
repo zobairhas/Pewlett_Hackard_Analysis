@@ -19,6 +19,7 @@ The client has asked to create a brand new database that stores employee data an
 
 ### Number of Retiring Employees by Title
 - There will be several employees that will retire with the following titles: Senior Engineer, Senior Staff, and Engineer.
+
 ![title](https://user-images.githubusercontent.com/44425379/153962717-c33996ce-5bc8-4b49-9958-5b2e55f93d42.png)
 - This is concerning, as these three titles alone make up for over 60,000 employees!
 - Pewlett Hackard (PH) will need to focus on backfilling their development department, or else they risk falling behind in that category.
