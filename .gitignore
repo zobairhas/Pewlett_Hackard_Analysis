@@ -1,3 +1,9 @@
+# Ignore folder
+Data/Old_Data
+Queries/Old_Queries
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
